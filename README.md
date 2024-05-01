@@ -21,3 +21,5 @@ To train the model, run the cells below the model section. This will train the m
 ![license plate detection example](https://drive.google.com/uc?id=1iXmi9Ucp_0s1m8ZdPy4R_cPVN0sw2eub)
 
 ![result example](https://drive.google.com/uc?id=1HjzvnJ_zlUR32gJsksTMeIoxj0DyNuJu)
+
+![video result](output_video.mpeg)
