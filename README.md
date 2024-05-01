@@ -16,10 +16,15 @@ To train the model, run the cells below the model section. This will train the m
 
 ## Results
 
-![original key frame example](https://drive.google.com/uc?id=1MZwtemJjdh7C28oBFEs5bIMqP76iS-l8)
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1MZwtemJjdh7C28oBFEs5bIMqP76iS-l8" alt="Original Key Frame Example" width="32%"/>
+  <img src="https://drive.google.com/uc?id=1iXmi9Ucp_0s1m8ZdPy4R_cPVN0sw2eub" alt="License Plate Detection Example" width="32%"/>
+  <img src="https://drive.google.com/uc?id=1HjzvnJ_zlUR32gJsksTMeIoxj0DyNuJu" alt="Result Example" width="32%"/>
+</p>
 
-![license plate detection example](https://drive.google.com/uc?id=1iXmi9Ucp_0s1m8ZdPy4R_cPVN0sw2eub)
 
-![result example](https://drive.google.com/uc?id=1HjzvnJ_zlUR32gJsksTMeIoxj0DyNuJu)
+sample video link:
+https://drive.google.com/file/d/12EbNPvXe2taQ011F_AY9IcsQHe85_EEO/view?usp=drive_link
 
-![video result](output_video.mpeg)
+result video link:
+https://drive.google.com/file/d/14JAu09p7zvxj9Ag7jrmp03yJ4p5aXhuK/view?usp=drive_link
