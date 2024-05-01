@@ -16,7 +16,7 @@ To train the model, run the cells below the model section. This will train the m
 
 ## Results
 
-![](https://drive.google.com/file/d/1MZwtemJjdh7C28oBFEs5bIMqP76iS-l8/view?usp=drive "original key frame example")
+![original key frame example](https://drive.google.com/file/d/1MZwtemJjdh7C28oBFEs5bIMqP76iS-l8/view?usp=drive)
 
 
 ![license plate detection example](https://drive.google.com/file/d/1iXmi9Ucp_0s1m8ZdPy4R_cPVN0sw2eub/view?usp=drive_link "License Plate Detection Example")
