@@ -1,0 +1,6 @@
+roboflow
+ultralytics
+cv2
+numpy
+easyocr
+torch
